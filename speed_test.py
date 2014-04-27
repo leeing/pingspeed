@@ -3,7 +3,7 @@
 import threading
 import subprocess
 
-ping_times = 3
+ping_times = 10
 
 speed_test_result = []
 
@@ -13,15 +13,23 @@ class Server(object):
         self.region = region
         self.ip = ip
         self.usage = usage
+
     def to_string():
         print("server IP = " + self.ip)
 
-class PingReault(object):
-    def __init(self,server,minimum,maximum,average):
+class PingResult(object):
+    def __init__(self,server,minimum,maximum,average):
         self.server = server
         self.minimum = minimum
         self.maximum = maximum
         self.average = average
+
+    def __cmp__(self,other):
+	return self.average - other.average
+
+    def __str__(self):
+	return self.server.ip + "\t" + str(self.average) + str(self.minimum) + "\t" + str(self.maximum) + "\t"\
+	    + self.server.region + "\t" + self.server.usage + self.server.category + "\t" 
 
 class PingThread(threading.Thread):
     def __init__(self,server):
@@ -30,15 +38,18 @@ class PingThread(threading.Thread):
    
     def run(self):
         try:
-            output = subprocess.check_output("ping -c " + str(ping_times) + " " + self.server.ip + " | grep round-trip",shell=True)
-            result = output
-            print(self.server.ip + "\t" + result.split("=")[1])
-            speed_test_result.append(result)
-        except:
-            None
+	    cmd = "ping -c " + str(ping_times) + " " + self.server.ip + " | grep round-trip"
+            output = subprocess.check_output(cmd,shell=True)
+            result = output.split("=")[1].split("/")
+            #print(self.server.ip + "\t" + str(result[0:-1]))
+	    pingResult = PingResult(self.server,float(result[0]),float(result[2]),float(result[1]))
+            speed_test_result.append(pingResult)
+        except Exception,ex:
+            print ex
 
 if __name__ == "__main__":
     servers = []
+    thread_pool = []
     ip_list = file("result.txt","r")
 
     for line in ip_list.readlines():
@@ -50,8 +61,14 @@ if __name__ == "__main__":
     print("There are " + str(len(servers)) + " servers available")
     
     for server in servers:
-        pingThread = PingThread(server)
-        pingThread.start()
+        thread_pool.append(PingThread(server))
 
+    for thread in thread_pool:
+        thread.start()
+
+    for thread in thread_pool:
+        thread.join()
+
+    speed_test_result.sort()
     for test_result in speed_test_result:
         print test_result
