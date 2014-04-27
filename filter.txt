@@ -1,0 +1,265 @@
+			<td width='150' align='center' bgcolor='#ffffff'><center><b>区域</b></center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><b>线路名称</b></center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><b>IP地址</b></center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><b>协议</b></center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><b>状态</b></center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>免费试用</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>北美-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>199.119.206.177</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>免费试用</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>北美-02</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>173.224.209.236</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>免费试用</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>北美-03</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>199.119.206.104</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>仅OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>免费试用</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>北美-04</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>199.71.213.77</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>仅OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>免费试用</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>日本-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>27.120.105.156</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>仅OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>免费试用</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>北美-05</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>108.171.243.155</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP北美</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>美国高速-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>192.210.58.130</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP北美</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>美国高速-02</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>184.22.29.174</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP北美</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>美国高速-03</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>198.13.107.84</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP北美</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>美国高速-04</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>173.208.199.14</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP北美</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>美国高速-05</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>198.13.105.186</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP北美</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>美国高速-06</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>173.224.212.244</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP北美</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>美国高速-07</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>184.22.70.43</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP北美</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>美国高速-08</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>23.239.107.123</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP北美</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>加拿大高速-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>204.93.54.116</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP欧洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>英国高速-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>78.129.187.108</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP欧洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>英国高速-02</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>109.123.92.153</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP欧洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>德国高速-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>80.190.117.220</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP欧洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>德国高速-02</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>62.113.243.132</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP欧洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>西班牙-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>37.235.53.153</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP欧洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>法国高速-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>188.165.51.29</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>仅OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP欧洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>法国高速-02</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>87.98.174.129</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP欧洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>俄罗斯高速-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>158.255.0.66</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP欧洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>荷兰高速-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>146.0.79.217</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP欧洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>意大利-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>149.154.157.197</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>香港高速-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>103.242.109.91</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>香港高速-02</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>122.10.91.158</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>香港高速-03</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>27.122.15.90</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>台服高速-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>60.249.122.37</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>台服高速-02</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>202.153.164.111</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>日本高速-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>153.121.52.192</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>日本高速-02</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>153.120.45.141</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>日本高速-03</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>163.43.129.50</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>日本高速-04</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>106.186.23.243</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>日本高速-05</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>153.121.33.56</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>新加坡高速-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>128.199.247.243</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>韩国高速-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>110.45.132.75</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>韩国高速-02</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>110.45.132.89</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>澳大利亚-01</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>203.77.163.42</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>中国-01（广东）</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>183.60.158.129</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>中国-02（北京）</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>117.121.25.151</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>中国-03（四川）</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>220.166.63.88</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP亚洲</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>中国-04（上海）</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>222.73.139.46</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP+OpenVPN</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><b>适用系统</b></center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><b>线路名称</b></center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><b>域名</b></center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><b>协议</b></center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><b>状态</b></center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>iOS/Android/Mac</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP-US1</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>us1.grjsq.mobi</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>iOS/Android/Mac</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP-US2</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>us2.grjsq.mobi</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>iOS/Android/Mac</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP-UK1</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>uk1.grjsq.mobi</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>iOS/Android/Mac</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP-UK2</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>uk2.grjsq.mobi</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>iOS/Android/Mac</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP-JP</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>jp.grjsq.mobi</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>iOS/Android/Mac</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>Free-US</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>free.grjsq.mobi</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>iOS/Android/Mac</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP-KR</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>kr.grjsq.mobi</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>iOS/Android/Mac</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>VIP-TW</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>tw.grjsq.mobi</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center>PPTP+L2TP</center></td>
+			<td width='150' align='center' bgcolor='#ffffff'><center><img src='templates/keepitsimple/images/status_low.gif' /> &nbsp; 正常</center></td>
