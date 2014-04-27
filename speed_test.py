@@ -9,10 +9,10 @@ speed_test_result = []
 
 class Server(object):
     def __init__(self,category,region,ip,usage):
-        self.category = category
-        self.region = region
-        self.ip = ip
-        self.usage = usage
+        self.category = category.strip()
+        self.region = region.strip()
+        self.ip = ip.strip()
+        self.usage = usage.strip()
 
     def to_string():
         print("server IP = " + self.ip)
@@ -28,9 +28,10 @@ class PingResult(object):
 	return self.average - other.average
 
     def __str__(self):
-	return self.server.ip + "\t" + str(self.average) + str(self.minimum) + "\t" + str(self.maximum) + "\t"\
-	    + self.server.region + "\t" + self.server.usage + self.server.category + "\t" 
+	#return "{:-20s}{:-20s}{:-20s}{:-20s}{:-20s}{:-20s}".format(self.server.region,self.server.ip,str(self.average),str(self.minimum),str(self.maximum),self.server.usage)
 
+	return self.server.region+"\t" + self.server.ip + "\t" + str(self.average)+"\t" + \
+            str(self.minimum) + "\t" + str(self.maximum) + "\t" + self.server.usage
 class PingThread(threading.Thread):
     def __init__(self,server):
         threading.Thread.__init__(self)
